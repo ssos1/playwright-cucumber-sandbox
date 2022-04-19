@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules
+
+# Playwright temporary folders
+reports
+cucumber_report.json
+output
+playwright-report
+test-results
+
+# IDE files
+.idea
+.vs
+.vscode
+
+# OS files
+.DS_Store
